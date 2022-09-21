@@ -3,9 +3,10 @@
     display: none;
   }
   .bg-mobile {
-    display: block;
+    display: inline-block;
     position: absolute;
     top: 0;
+    left: 0;
     width: 100%;
   }
   nav {
